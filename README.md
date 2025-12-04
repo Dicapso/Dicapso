@@ -1,7 +1,5 @@
 # Salam! Mən Tural Zamanlı 👋
 
-![Hero Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
 Mən süni intellekt (AI), data science və data analitika sahəsində ixtisaslaşmış mütəxəssisəm. Məlumatların gücünü istifadə edərək **insight-lar çıxarmaq, proqnoz modelləri qurmaq və AI həlləri yaratmaq** mənim əsas sahələrimdir.
 
 ---
