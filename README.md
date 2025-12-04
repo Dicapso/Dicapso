@@ -20,7 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
-    <img src="https://img.icons8.com/external-sbts2018-lineal-color-sbts2018/48/external-n8n-no-code-sbts2018-lineal-color-sbts2018.png" alt="n8n" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </p>
 
