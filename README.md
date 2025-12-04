@@ -1,67 +1,43 @@
-<h1 align="center">👋 Hi, I'm Tural Zamanlı</h1>
+# Salam! Mən Tural Zamanlı 👋
 
-<p align="center">
-  💻 SQL Developer | 📊 Data Analyst | 🗄 Database Designer  
-</p>
+![Hero Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
----
+Mən süni intellekt (AI), data science və data analitika sahəsində ixtisaslaşmış mütəxəssisəm. Məlumatların gücünü istifadə edərək **insight-lar çıxarmaq, proqnoz modelləri qurmaq və AI həlləri yaratmaq** mənim əsas sahələrimdir.
 
-## 🚀 About Me
-🔹 Passionate about **database design**, **SQL query optimization**, and **data analysis**.  
-🔹 Sharing practical projects, complex queries, and reporting examples.  
-🔹 My goal: build **fast, clean, and optimized** database solutions.  
+💡 **Nə edirəm:**
+- Data təhlili və vizuallaşdırma (Python, Pandas, Matplotlib, Seaborn)  
+- Maşın öyrənməsi və süni intellekt modellərinin hazırlanması (scikit-learn, TensorFlow, PyTorch)  
+- AI workflow-larının avtomatlaşdırılması və optimallaşdırılması  
+- YouTube / social media üçün AI video və kontent avtomatlaşdırması  
+- Data-driven qərar qəbuletmə və biznes analitikası  
 
----
+🚀 **Layihələrim:**
+- [AI Video Automation Workflows](https://github.com/TuralZamanli) – YouTube Shorts və AI video kontentlərinin avtomatlaşdırılması  
+- [Data Science Projects](https://github.com/TuralZamanli) – Proqnoz modelləri, statistik analiz və data vizuallaşdırma  
 
-## 🛠 Skills & Tools
+📊 **Bacarıqlar və Texnologiyalar:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF4A00?style=for-the-badge&logo=n8n&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Database-Design-green" />
-  <img src="https://img.shields.io/badge/Stored_Procedures-yellow" />
-  <img src="https://img.shields.io/badge/Query-Optimization-lightgrey" />
-  <img src="https://img.shields.io/badge/ETL%20&%20Data%20Processing-orange" />
-</p>
+🎬 **YouTube / AI Workflow Badges:**  
+![AI Video](https://img.shields.io/badge/AI-Video_Workflow-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Active-green?style=for-the-badge)
 
----
+📈 **GitHub Stats:**  
+![Tural Zamanlı GitHub stats](https://github-readme-stats.vercel.app/api?username=TuralZamanli&show_icons=true&theme=radical)
 
-## 📂 Featured Projects
-🔹 [📚 Library Management System]()  
-➡ Database structure for a library system + sample queries.  
+🌟 **Top Languages:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuralZamanli&layout=compact&theme=radical)
 
-🔹 [🛒 E-Commerce Database]()  
-➡ Database schema for an online shop with sales analysis queries.  
+👀 **Visitor Counter:**  
+![Visitor Count](https://profile-counter.glitch.me/TuralZamanli/count.svg)
 
-🔹 [⚡ SQL Optimization Examples]()  
-➡ Different approaches to the same queries with performance comparison.  
+📫 **Əlaqə:**  
+- [LinkedIn](https://linkedin.com/in/TuralZamanli)  
+- [E-mail](mailto:tural.zamanli@example.com)  
 
----
-
-## 📊 Data Analysis & Reporting
-📌 Data transformation using SQL  
-📌 Visual reports with **Python (pandas/matplotlib)** and **Power BI**  
-📌 Examples: sales dashboards, customer behavior analysis  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
----
-
-## 📫 Contact
-- ✉️ Email: dicapso13@gmail.com 
-- 💼 LinkedIn: linkedin.com/in/dicapso
-- (https://linkedin.com/in/dicapso)  
-- 🐙 GitHub: [github.com/d1capso](https://github.com/dicapso)  
-
----
-
-⭐ **I regularly add new SQL projects – feel free to follow!**
+💡 Mən həmişə **məlumatın gücünü işə salmaq və AI texnologiyaları ilə innovativ həllər yaratmaq** üçün yeni layihələr axtarıram.
