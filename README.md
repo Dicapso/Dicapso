@@ -3,7 +3,7 @@
 👋 Salam! Mən **Tural Zamanlı** — AI alətləri, video kontent və iş axınlarının avtomatlaşdırılması ilə məşğul olan tərtibatçı və data entuziastıyam.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=500&color=00FFA3&center=true&vCenter=true&width=650&lines=AI+Tools+%7C+YouTube+Automation+%7C+n8n+Workflows+%7C+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=500&color=00FFA3&center=true&vCenter=true&width=650&lines=AI+Tools+%7C+n8n+Workflows+%7C+Data+Analytics" alt="Typing SVG" />
 </div>
 
 ---
@@ -50,7 +50,7 @@
 ### 🌐 Mənimlə Əlaqə
 
 - 💬 **Telegram**: [@turalzamanli](https://t.me/turalzamanli) *(AI, automation və data haqqında ən son yeniliklər!)*  
-- 💼 **LinkedIn**: [linkedin.com/in/turalzamanli](https://linkedin.com/in/turalzamanli)  
+- 💼 **LinkedIn**: [linkedin.com/in/turalzamanli](https://linkedin.com/in/dicapso)  
 - 📍 **Yer**: Bakı, Azərbaycan 🇦🇿  
 
 ---
