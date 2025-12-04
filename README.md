@@ -1,43 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## 👋 About Me
 
-###
+✨ Hi, I'm **Tural Zamanlı** from Azerbaijan – a **Data Analyst & AI enthusiast** passionate about turning data into insights and building intelligent workflows using cutting-edge AI tools.  
 
-<p align="left">My name is Tural Zamanlı and I'm a data scientist, AI and machine learning specialist from Azerbaijan, passionate about turning data into actionable insights and building innovative AI solutions.</p>
+📚 **Currently exploring:** Advanced AI workflows, machine learning models, and data visualization techniques  
 
-###
+🎯 **Goals:** Automate data-driven processes, create innovative AI solutions, and contribute to open-source projects  
 
-<h2 align="left">About me</h2>
+🎲 **Fun fact:** I love combining AI with creative content, like generating YouTube Shorts automatically using Python and n8n  
 
-###
+---
 
-<p align="left">📚 I'm currently learning advanced AI workflow automation and deep learning techniques  <br>🎯 Goals: Build innovative AI solutions, automate data-driven workflows, and contribute to open-source projects  <br>🎲 Fun fact: I love combining AI with creative content, like generating YouTube Shorts automatically using Python and n8n</p>
+## 🛠️ Tools & Technologies
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-</div>
-
-###
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
+<a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF4A00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
