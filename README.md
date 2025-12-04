@@ -1,5 +1,8 @@
 <!-- README.md for github.com/Dicapso -->
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=800&lines=AI+Tools+%7C+YouTube+Automation+%7C+n8n+Workflows+%7C+Data+Analytics" 
+       alt="AI Automation Engineer" />
+</div>
 👋 Salam! Mən **Tural Zamanlı** — AI alətləri, video kontent və iş axınlarının avtomatlaşdırılması ilə məşğul olan tərtibatçı və data entuziastıyam.
 
 <div align="center">
@@ -40,9 +43,12 @@
 
 ### 📊 GitHub Statistikam
 
+<!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dicapso&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dicapso&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dicapso&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+       alt="Tural's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicapso&layout=compact&theme=radical&langs_count=6" 
+       alt="Top Languages" width="48%" />
 </div>
 
 ---
