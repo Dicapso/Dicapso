@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Tural Zamanlı</h1>
-<h3 align="center">A passionate IT & Data Specialist, AI & Data Analytics Expert from Azerbaijan</h3>
+<!-- README.md for github.com/Dicapso -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dicapso&label=Profile%20views&color=0e75b6&style=flat" alt="dicapso" /> </p>
+👋 Salam! Mən **Tural Zamanlı** — AI alətləri, video kontent və iş axınlarının avtomatlaşdırılması ilə məşğul olan tərtibatçı və data entuziastıyam.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dicapso" alt="dicapso" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=500&color=00FFA3&center=true&vCenter=true&width=650&lines=AI+Tools+%7C+YouTube+Automation+%7C+n8n+Workflows+%7C+Data+Analytics" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on [I’m currently working on automating workflows with AI tools](https://github.com/Dicapso/Youtube_Automation.git)
+---
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on AI projects.**
+### 🛠️ Mənim Texnologiya Yığcığım
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dicapso](https://github.com/Dicapso)
+- **AI & Content**: LLM-lər (OpenAI, Claude, Groq), ElevenLabs, Pictory, HeyGen, Runway ML  
+- **Avtomatlaşdırma**: [n8n](https://n8n.io/) — məhsuldarlıq üçün mənə ən yaxşı köməkçi!  
+- **Video Kontent**: YouTube Shorts & TikTok üçün tam avtomatik kontent yaradılması  
+- **Data Analitika**: Python (Pandas, NumPy), SQL, Google Sheets, Looker Studio, Power BI  
+- **Digər**: JavaScript, REST API-lər, Airtable, Notion API, Telegram Botlar
 
-- 📫 How to reach me **tural.a.zamanli@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dicapso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dicapso/" height="30" width="40" /></a>
-</p>
+### 🚀 Əsas Layihələr
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### 🔹 [**Youtube_Automation**](https://github.com/Dicapso/Youtube_Automation)
+**AI ilə tam avtomatik YouTube Shorts** generasiyası sistemi:  
+✅ Google Sheets-dən mövzu seçimi  
+✅ LLM ilə skript yaradılması  
+✅ ElevenLabs ilə səs sintezi  
+✅ Pictory/HeyGen ilə video renderi  
+✅ n8n vasitəsilə hər bir addımı birləşdirən workflow  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dicapso&show_icons=true&locale=en&layout=compact" alt="dicapso" /></p>
+> 📌 **Nəticə**: Həftəlik 5–10 yüksək keyfiyyətli Shorts, yalnız 1 kliklə!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dicapso&show_icons=true&locale=en" alt="dicapso" /></p>
+#### 🔹 Digər Layihələr
+- **AI Trend Watcher**: Günlük trendləri toplayıb Telegramda paylaşan bot  
+- **Data Pulse Dashboard**: Marketing performansını real vaxtda izləmək üçün analitik panel
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dicapso&" alt="dicapso" /></p>
+> 📂 Bütün layihələrimə [buradan](https://github.com/Dicapso?tab=repositories) baxa bilərsiniz.
+
+---
+
+### 📊 GitHub Statistikam
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dicapso&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dicapso&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 🌐 Mənimlə Əlaqə
+
+- 💬 **Telegram**: [@turalzamanli](https://t.me/turalzamanli) *(AI, automation və data haqqında ən son yeniliklər!)*  
+- 💼 **LinkedIn**: [linkedin.com/in/turalzamanli](https://linkedin.com/in/turalzamanli)  
+- 📍 **Yer**: Bakı, Azərbaycan 🇦🇿  
+
+---
+
+✨ **"Əgər bir işi ikinci dəfə edirsənsə — onu avtomatlaşdır. Üçüncü dəfə edirsənsə — AI-yə öyrət."**  
+**Tural Zamanlı** • AI × Video × Data • [@Dicapso](https://github.com/Dicapso)
