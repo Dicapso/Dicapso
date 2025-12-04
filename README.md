@@ -18,7 +18,7 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="40" height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power-BI-Logo.svg" alt="Power BI" width="40" height="40" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/c/cf/Power-BI-Logo.svg](https://share.google/images/ipiqeah3KqUHCLFb8)" alt="Power BI" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/n8n-io/n8n@main/assets%2Ficons%2Fn8n-icon.svg" alt="n8n" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -30,13 +30,17 @@
 
 ---
 
-### 🚀 Əsas Layihə
+### 🚀 Əsas Layihələr
 
 #### 🔹 [**Youtube_Automation**](https://github.com/Dicapso/Youtube_Automation)
-AI ilə **tam avtomatik YouTube Shorts** yaradılması sistemi:
-- Google Sheets → LLM (skript) → ElevenLabs (səs) → Pictory (video)
-- **n8n** ilə bütün addımlar birləşdirilib
-- Həftəlik 5–10 Shorts, minimum müdaxilə ilə!
+**AI ilə tam avtomatik YouTube Shorts** generasiyası sistemi:  
+✅ Google Sheets-dən mövzu seçimi  
+✅ LLM ilə skript yaradılması  
+✅ ElevenLabs ilə səs sintezi  
+✅ Pictory/HeyGen ilə video renderi  
+✅ n8n vasitəsilə hər bir addımı birləşdirən workflow  
+
+> 📌 **Nəticə**: Həftəlik 5–10 yüksək keyfiyyətli Shorts, yalnız 1 kliklə!
 
 > 📌 İdeya: "Əgər insan əvəzinə AI işləyə bilirsə — niyə etməsin?"
 
