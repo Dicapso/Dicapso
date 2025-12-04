@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Stats
 
-![Tural Zamanlı GitHub stats](https://github-readme-stats.vercel.app/api?username=dicapso&show_icons=true&theme=radical)
+![dicapso GitHub stats](https://github-readme-stats.vercel.app/api?username=dicapso&show_icons=true&theme=radical)
 
 ### 🌟 Top Languages
 
