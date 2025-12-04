@@ -9,7 +9,7 @@
   <h1>👋 Salam! Mən Tural Zamanlı</h1>
   <p>AI alətləri • Video kontent • n8n ilə avtomatlaşdırma • Data analitika</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=800&lines=AI+Tools+%7C+YouTube+Automation+%7C+n8n+Workflows+%7C+Data+Analytics" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=800&lines=AI+Tools+%7C+n8n+Workflows+%7C+Data+Analytics" 
        alt="Typing header" />
 
   <br><br>
@@ -51,26 +51,23 @@ AI ilə **tam avtomatik YouTube Shorts** yaradılması sistemi:
 | **Mobil / Backend** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) • JavaScript • Node.js |
 | **AI / Kontent**    | OpenAI • ElevenLabs • Pictory • HeyGen • Airtable |
 
+
 ---
 
-### 📊 GitHub Statistikam
+#### 🔹 Digər Layihələr
+- **AI Trend Watcher**: Günlük trendləri toplayıb Telegramda paylaşan bot  
+- **Data Pulse Dashboard**: Marketing performansını real vaxtda izləmək üçün analitik panel
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dicapso&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
-       width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dicapso&layout=compact&theme=radical&langs_count=6" 
-       width="48%" />
-</div>
+> 📂 Bütün layihələrimə [buradan](https://github.com/Dicapso?tab=repositories) baxa bilərsiniz.
 
 ---
 
 ### 🌐 Mənimlə Əlaqə
-
-- 💬 **Telegram**: [@turalzamanli](https://t.me/turalzamanli)  
-- 💼 **LinkedIn**: [linkedin.com/in/turalzamanli](https://linkedin.com/in/turalzamanli)  
-- 📍 **Bakı, Azərbaycan** 🇦🇿
+ 
+- 💼 **LinkedIn**: [linkedin.com/in/turalzamanli](https://linkedin.com/in/dicapso)  
+- 📍 **Yer**: Bakı, Azərbaycan 🇦🇿  
 
 ---
 
-> ✨ **"Avtomatsızlıq — ən yaxşı işçi deyil, ən ağıllı işdirsə!"**  
-> — **Tural Zamanlı** • [@Dicapso](https://github.com/Dicapso)
+✨ **"Əgər bir işi ikinci dəfə edirsənsə — onu avtomatlaşdır. Üçüncü dəfə edirsənsə — AI-yə öyrət."**  
+**Tural Zamanlı** • AI × Video × Data • [@Dicapso](https://github.com/Dicapso)
